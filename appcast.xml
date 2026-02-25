@@ -3,32 +3,32 @@
     <channel>
         <title>Release</title>
         <item>
-            <title>Version 0.13.6</title>
-            <pubDate>Sun, 7 Jan 2024 22:00:00 +0000</pubDate>
+            <title>Version 2.7.2</title>
+            <pubDate>Wed, 25 Feb 2026 12:06:06 +0000</pubDate>
             <enclosure
-                url="https://play.google.com/store/apps/details?id=whitelabelairport.sw.sb"
-                sparkle:version="0.13.6" sparkle:os="android" />
+                url="https://github.com/FSWLairport/sirius-connect/releases/download/v2.7.2/SiriusConnect-Android-universal.apk"
+                sparkle:version="2.7.2" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 0.13.6</title>
-            <pubDate>Sun, 7 Jan 2024 22:00:00 +0000</pubDate>
+            <title>Version 2.7.2</title>
+            <pubDate>Wed, 25 Feb 2026 12:06:06 +0000</pubDate>
             <enclosure
-                url="https://github.com/FSWLairport/white-label-airport/releases/download/v0.13.6/whitelabelairport-windows-x64-setup.zip"
-                sparkle:version="0.13.6" sparkle:os="windows" />
+                url="https://github.com/FSWLairport/sirius-connect/releases/download/v2.7.2/WhiteLabelAirport-Windows-Portable-x64.zip"
+                sparkle:version="2.7.2" sparkle:os="windows" />
         </item>
         <item>
-            <title>Version 0.13.6</title>
-            <pubDate>Sun, 7 Jan 2024 22:00:00 +0000</pubDate>
+            <title>Version 2.7.2</title>
+            <pubDate>Wed, 25 Feb 2026 12:06:06 +0000</pubDate>
             <enclosure
-                url="https://github.com/FSWLairport/white-label-airport/releases/download/v0.13.6/whitelabelairport-macos-universal.zip"
-                sparkle:version="0.13.6" sparkle:os="macos" />
+                url="https://github.com/FSWLairport/sirius-connect/releases/download/v2.7.2/SiriusConnect-MacOS.dmg"
+                sparkle:version="2.7.2" sparkle:os="macos" />
         </item>
         <item>
-            <title>Version 0.13.6</title>
-            <pubDate>Sun, 7 Jan 2024 22:00:00 +0000</pubDate>
+            <title>Version 2.7.2</title>
+            <pubDate>Wed, 25 Feb 2026 12:06:06 +0000</pubDate>
             <enclosure
-                url="https://github.com/FSWLairport/white-label-airport/releases/download/v0.13.6/whitelabelairport-linux-x64.zip"
-                sparkle:version="0.13.6" sparkle:os="linux" />
+                url="https://github.com/FSWLairport/sirius-connect/releases/download/v2.7.2/SiriusConnect-Debian-x64.deb"
+                sparkle:version="2.7.2" sparkle:os="linux" />
         </item>
     </channel>
 </rss>
